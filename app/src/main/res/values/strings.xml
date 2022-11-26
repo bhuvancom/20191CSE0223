@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">20191CSE0223</string>
+    <string name="hackathon_submission_form">Hackathon Submission Form</string>
+    <string name="name">Name</string>
+    <string name="department">Department</string>
+    <string name="email">E-Mail</string>
+    <string name="submit">Submit</string>
+    <string name="agriculture">Agriculture</string>
+    <string name="blockchain">Blockchain</string>
+    <string name="cybersecurity">Cybersecurity</string>
+    <string name="data_analytics">Data Analytics</string>
+    <string name="re">Renewable Energy</string>
+    <string name="robotics">Robotics</string>
+    <string name="smart_automation">Smart automation</string>
+    <string name="semester">Semester</string>
+    <string name="programming_language_expertise">Programming Language Expertise</string>
+    <string name="college">College</string>
+    <string name="name_error">Wrong Name</string>
+    <string name="email_error">Email is wrong</string>
+    <string name="department_error">Department is required</string>
+    <string name="semester_error">Invalid Semester</string>
+    <string name="language_error">Programming Language required</string>
+    <string name="college_error">Select from given college</string>
+    <string name="confirm">Confirm</string>
+    <string name="not_eligible_for_the_hackathon">Not eligible for the Hackathon</string>
+    <string name="you_are_successfully_registered">You are successfully registered</string>
+</resources>
